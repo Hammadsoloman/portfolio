@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "## organize CSS by SMACSS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammadsoloman/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammadsoloman/portfolio/issues"
+  },
+  "homepage": "https://github.com/Hammadsoloman/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
